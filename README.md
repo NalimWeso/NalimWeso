@@ -12,7 +12,7 @@
 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum, soluta voluptate. Porro minima, ea fugiat dolorum odit ratione quod sed ut nemo laudantium, quia, omnis saepe pariatur commodi eaque. Reiciendis? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias nemo culpa consectetur animi beatae perferendis voluptatem, laborum, commodi eveniet maiores ad laudantium ipsa magnam ab debitis tenetur odit odio delectus?
 
 <p align="left">
-  <a href="https://nalimweso.com">
+  <a href="https://nalimweso.com" target="_blank">
   <img alt="nalimweso.com" title="nalimweso.com" src="https://custom-icon-badges.demolab.com/badge/nalimweso.com-%232a475e?style=for-the-badge&logoSource=feather&logo=coffee"/></a>
 
   <a href="mailto:milanweso@gmail.com">
