@@ -23,9 +23,6 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum, soluta voluptat
 
   <a href="https://www.linkedin.com/in/milan-wesolowski/">
   <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin"/></a>
-  
-  <a href="https://github.com/NalimWeso">
-  <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-%23c9510c?style=for-the-badge&logo=github"/></a>
 
   <a href="https://www.filmweb.pl/user/Nalimos">
   <img alt="Filmweb" title="Filmweb" src="https://custom-icon-badges.demolab.com/badge/Filmweb-%23e2a917?style=for-the-badge&logoSource=feather&logo=film"/></a>
