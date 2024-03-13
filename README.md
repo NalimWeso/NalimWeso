@@ -1,7 +1,7 @@
 # 🐍 Milan Wesołowski
 
-`Programmer 👨‍💻`
-`Cinephile 🎥`
-`Gamer 🎮`
-`Cowboy 🤠`
+`Programmer`
+`Cinephile`
+`Gamer`
+`Cowboy`
 
