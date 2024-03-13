@@ -9,7 +9,11 @@
 <img src="BibleQuote.png" alt="Matthew 10:16">
 </p>
 
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum, soluta voluptate. Porro minima, ea fugiat dolorum odit ratione quod sed ut nemo laudantium, quia, omnis saepe pariatur commodi eaque. Reiciendis? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias nemo culpa consectetur animi beatae perferendis voluptatem, laborum, commodi eveniet maiores ad laudantium ipsa magnam ab debitis tenetur odit odio delectus?
+👋 Hey hey! I'm a Polish frontend developer who got immersed in programming and can't tear myself away from it. Since January 1st, 2024, I've had an account on GitHub, and in my free time, I tinker with my projects. I take great care to ensure they have a thoughtful concepts, careful execution, and appealing visual design. Well, I'm quite meticulous, haha. 😊
+
+Currently, I'm seeking employment as a programmer. Fortunately, I'm positive and I know that something will surely come up soon! ✅
+
+---
 
 <p align="left">
   <a href="https://nalimweso.com">
