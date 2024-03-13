@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum, soluta voluptat
   <a href="https://nalimweso.com">
   <img alt="nalimweso.com" title="nalimweso.com" src="https://custom-icon-badges.demolab.com/badge/nalimweso.com-%232a475e?style=for-the-badge&logoSource=feather&logo=coffee"/></a>
 
-  <a href="">
+  <a href="mailto:milanweso@gmail.com">
   <img alt="milanweso@gmail.com" title="milanweso@gmail.com" src="https://custom-icon-badges.demolab.com/badge/milanweso%40gmail.com-%23ff6464?style=for-the-badge&logoSource=feather&logo=mail""/></a>
 
   <a href="https://www.facebook.com/NalimWeso">
