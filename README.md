@@ -15,6 +15,8 @@ Currently, I'm seeking employment as a programmer. Fortunately, I'm positive and
 
 ---
 
+### 🏹 Portfolio, Contact & Other Links
+
 <p align="left">
   <a href="https://nalimweso.com">
   <img alt="nalimweso.com" title="nalimweso.com" src="https://custom-icon-badges.demolab.com/badge/nalimweso.com-%232a475e?style=for-the-badge&logoSource=feather&logo=coffee"/></a>
@@ -34,5 +36,3 @@ Currently, I'm seeking employment as a programmer. Fortunately, I'm positive and
   <a href="https://steamcommunity.com/id/nalimos">
   <img alt="Steam" title="Steam" src="https://custom-icon-badges.demolab.com/badge/Steam-%231b2838?style=for-the-badge&logo=steam"/></a>
 </p>
-
----
