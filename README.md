@@ -11,7 +11,7 @@
 
 👋 Hey hey! I'm a Polish frontend developer who got immersed in programming and can't tear myself away from it. Since January 1st, 2024, I've had an account on **GitHub**, and in my free time, I tinker with my projects. I take great care to ensure they have a thoughtful concepts, careful execution and appealing visual design. Well, I'm quite meticulous, haha. 😊
 
-Currently, I'm seeking employment as a programmer. Fortunately, I'm positive and I know that something will surely come up soon! ✅
+I'm currently looking for a programming job, staying positive that the right opportunity will come my way soon! ✅
 
 ---
 
