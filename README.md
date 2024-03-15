@@ -28,7 +28,7 @@ I'm currently looking for a programming job, staying positive that the right opp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="80px" style="padding-right:20px;" />
 </p>
 
-**I'm dedicated to expanding my skills and knowledge every day!**
+**And I'm dedicated to expanding my skills and knowledge every day!** 🔥
 
 ---
 
