@@ -23,11 +23,9 @@ I'm currently looking for a programming job, staying positive that the right opp
 ![Static Badge](https://img.shields.io/badge/CSS-%23222831?style=for-the-badge&logo=css3&logoColor=%2333a9dc)
 ![Static Badge](https://img.shields.io/badge/Sass-%23222831?style=for-the-badge&logo=sass)
 ![Static Badge](https://img.shields.io/badge/Tailwind-%23222831?style=for-the-badge&logo=tailwind%20css)
-
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23222831?style=for-the-badge&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/React-%23222831?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/Electron-%23222831?style=for-the-badge&logo=Electron&logoColor=%23b0ebf6)
-
 ![Static Badge](https://img.shields.io/badge/Git-%23222831?style=for-the-badge&logo=git)
 ![Static Badge](https://img.shields.io/badge/npm-%23222831?style=for-the-badge&logo=npm)
 
