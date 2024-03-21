@@ -18,14 +18,19 @@ I'm currently looking for a programming job, staying positive that the right opp
 ### 👨‍💻 My Remarkable Abilities
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80px" style="padding-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="80px" style="padding-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="80px" style="padding-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px" style="padding-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="80px" style="padding-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="80px" style="padding-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80px" style="padding-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="80px" style="padding-right:20px;" />
+
+![Static Badge](https://img.shields.io/badge/HTML-%23222831?style=for-the-badge&logo=html5&logoColor=%23f16529)
+![Static Badge](https://img.shields.io/badge/CSS-%23222831?style=for-the-badge&logo=css3&logoColor=%2333a9dc)
+![Static Badge](https://img.shields.io/badge/Sass-%23222831?style=for-the-badge&logo=sass)
+![Static Badge](https://img.shields.io/badge/Tailwind-%23222831?style=for-the-badge&logo=tailwind%20css)
+
+![Static Badge](https://img.shields.io/badge/JavaScript-%23222831?style=for-the-badge&logo=javascript)
+![Static Badge](https://img.shields.io/badge/React-%23222831?style=for-the-badge&logo=react)
+![Static Badge](https://img.shields.io/badge/Electron-%23222831?style=for-the-badge&logo=Electron&logoColor=%23b0ebf6)
+
+![Static Badge](https://img.shields.io/badge/Git-%23222831?style=for-the-badge&logo=git)
+![Static Badge](https://img.shields.io/badge/npm-%23222831?style=for-the-badge&logo=npm)
+
 </p>
 
 **💪 And I'm dedicated to expanding my skills and knowledge every day!** 🔥
