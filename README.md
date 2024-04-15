@@ -9,7 +9,7 @@
 <img src="BibleQuote.png" alt="Matthew 10:16">
 </p>
 
-👋 Hey hey! I'm a Polish self-taught Frontend Developer who got immersed in programming and can't tear myself away from it. Since January 1st, 2024, I've had an account on **GitHub**, and in my free time, I tinker with my projects. I take great care to ensure they have a thoughtful concept, careful execution and appealing visual design. Well, I'm quite meticulous, haha. 😊
+👋 Hey hey! I'm a Polish self-taught Frontend Developer who got immersed in programming and can't tear myself away from it. Since January 1st, 2024, I've had an account on **GitHub**, and in my free time, I tinker with my projects. I take great care to ensure they have a thoughtful concept, careful execution and appealing visual design. 🌟
 
 I'm currently looking for a programming job, staying positive that the right opportunity will come my way soon! ✅
 
@@ -32,7 +32,7 @@ I'm currently looking for a programming job, staying positive that the right opp
 
 ---
 
-### 🙉 Learning & Mastering
+### 🚀 Learning & Mastering
 
 ![Static Badge](https://img.shields.io/badge/Tailwind-%23222831?style=for-the-badge&logo=tailwind%20css)
 ![Static Badge](https://img.shields.io/badge/Post%20CSS-%23222831?style=for-the-badge&logo=postcss&logoColor=%23f4430f)
