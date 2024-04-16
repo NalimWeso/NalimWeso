@@ -21,12 +21,12 @@ I'm currently looking for a programming job, staying positive that the right opp
   
 ![Static Badge](https://img.shields.io/badge/HTML-%23222831?style=for-the-badge&logo=html5&logoColor=%23f16529)
 ![Static Badge](https://img.shields.io/badge/CSS-%23222831?style=for-the-badge&logo=css3&logoColor=%2333a9dc)
+![Static Badge](https://img.shields.io/badge/PostCSS-%23222831?style=for-the-badge&logo=postcss&logoColor=%23f4430f)
 ![Static Badge](https://img.shields.io/badge/Sass-%23222831?style=for-the-badge&logo=sass)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23222831?style=for-the-badge&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/React-%23222831?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/Electron-%23222831?style=for-the-badge&logo=Electron&logoColor=%23b0ebf6)
 ![Static Badge](https://img.shields.io/badge/Git-%23222831?style=for-the-badge&logo=git)
-![Static Badge](https://img.shields.io/badge/npm-%23222831?style=for-the-badge&logo=npm)
 
 </p>
 
@@ -35,7 +35,9 @@ I'm currently looking for a programming job, staying positive that the right opp
 ### 🚀 Learning & Mastering
 
 ![Static Badge](https://img.shields.io/badge/Tailwind-%23222831?style=for-the-badge&logo=tailwind%20css)
-![Static Badge](https://img.shields.io/badge/Post%20CSS-%23222831?style=for-the-badge&logo=postcss&logoColor=%23f4430f)
+![Static Badge](https://img.shields.io/badge/TypeScript-%23222831?style=for-the-badge&logo=typescript&logoColor=%232596be)
+![Static Badge](https://img.shields.io/badge/Vue.js-%23222831?style=for-the-badge&logo=vue.js)
+![Static Badge](https://img.shields.io/badge/Nuxt.js-%23222831?style=for-the-badge&logo=nuxt.js)
 
 **💪 And I'm dedicated to expanding my skills and knowledge every day!** 🔥
 
