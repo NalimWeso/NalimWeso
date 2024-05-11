@@ -23,6 +23,7 @@ I'm currently looking for a programming job, staying positive that the right opp
 ![Static Badge](https://img.shields.io/badge/CSS-%23222831?style=for-the-badge&logo=css3&logoColor=%2333a9dc)
 ![Static Badge](https://img.shields.io/badge/PostCSS-%23222831?style=for-the-badge&logo=postcss&logoColor=%23f4430f)
 ![Static Badge](https://img.shields.io/badge/Sass-%23222831?style=for-the-badge&logo=sass)
+![Static Badge](https://img.shields.io/badge/Tailwind-%23222831?style=for-the-badge&logo=tailwind%20css)
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23222831?style=for-the-badge&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%23222831?style=for-the-badge&logo=typescript&logoColor=%232596be)
@@ -36,7 +37,6 @@ I'm currently looking for a programming job, staying positive that the right opp
 
 ### 🚀 Learning & Mastering
 
-![Static Badge](https://img.shields.io/badge/Tailwind-%23222831?style=for-the-badge&logo=tailwind%20css)
 ![Static Badge](https://img.shields.io/badge/Vue.js-%23222831?style=for-the-badge&logo=vue.js)
 ![Static Badge](https://img.shields.io/badge/Nuxt.js-%23222831?style=for-the-badge&logo=nuxt.js)
 
