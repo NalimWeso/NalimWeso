@@ -33,13 +33,6 @@ I'm currently looking for a programming job, staying positive that the right opp
 
 </p>
 
----
-
-### 🚀 Learning & Mastering
-
-![Static Badge](https://img.shields.io/badge/Vue.js-%23222831?style=for-the-badge&logo=vue.js)
-![Static Badge](https://img.shields.io/badge/Nuxt.js-%23222831?style=for-the-badge&logo=nuxt.js)
-
 **💪 And I'm dedicated to expanding my skills and knowledge every day!** 🔥
 
 ---
