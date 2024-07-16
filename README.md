@@ -9,7 +9,11 @@
 <img src="BibleQuote.png" alt="Matthew 10:16">
 </p>
 
-👋 Hey hey! I'm a Polish self-taught Frontend Developer who got immersed in programming and can't tear myself away from it. Since January 1st, 2024, I've had an account on **GitHub**, and in my free time, I tinker with my projects. I take great care to ensure they have a thoughtful concept, careful execution and appealing visual design. 🌟
+👋 Hey hey!
+
+I'm a Polish self-taught **Frontend Developer** who got immersed in programming and decided that it will be my way of earning bread.
+
+Since January 1, 2024, I've been active on GitHub and in my free time I tinker with my projects. I strive to ensure they are top-notch in every aspect.
 
 ---
 
@@ -31,7 +35,7 @@
 
 </p>
 
-**💪 And I'm dedicated to expanding my skills and knowledge every day!** 🔥
+**💪 I'm dedicated to expanding my skills and knowledge every day!** 🔥
 
 ---
 
