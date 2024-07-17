@@ -35,8 +35,6 @@ Since January 1, 2024, I've been active on GitHub and in my free time I tinker w
 
 </p>
 
-**💪 I'm dedicated to expanding my skills and knowledge every day!** 🔥
-
 ---
 
 ### 🏹 Portfolio, Contact & Other Links
