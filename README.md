@@ -37,7 +37,7 @@ Since January 1, 2024, I've been active on GitHub and in my free time I tinker w
 
 ---
 
-### 🏹 Portfolio, Contact & Other Links
+### 🏹 Portfolio & Contact
 
 <p align="left">
   <a href="https://nalimweso.com">
@@ -51,10 +51,4 @@ Since January 1, 2024, I've been active on GitHub and in my free time I tinker w
 
   <a href="https://www.linkedin.com/in/milan-wesolowski">
   <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin"/></a>
-
-  <a href="https://www.filmweb.pl/user/Nalimos">
-  <img alt="Filmweb" title="Filmweb" src="https://custom-icon-badges.demolab.com/badge/Filmweb-%23e2a917?style=for-the-badge&logoSource=feather&logo=film"/></a>
-  
-  <a href="https://steamcommunity.com/id/nalimos">
-  <img alt="Steam" title="Steam" src="https://custom-icon-badges.demolab.com/badge/Steam-%231b2838?style=for-the-badge&logo=steam"/></a>
 </p>
