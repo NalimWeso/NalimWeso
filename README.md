@@ -9,12 +9,6 @@
 <img src="BibleQuote.png" alt="Matthew 10:16">
 </p>
 
-👋 Hey hey!
-
-I'm a Polish self-taught **Frontend Developer** who got immersed in programming and decided that it will be my way of earning bread for each day. 🍞
-
-Since January 1, 2024, I've been active on GitHub and in my free time I tinker with my projects. I strive to ensure they are top-notch in every aspect. That's just my style. 💯
-
 ---
 
 ### 👨‍💻 Technologies & Abilities
