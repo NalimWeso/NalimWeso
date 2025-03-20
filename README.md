@@ -6,7 +6,7 @@
 `Cowboy`
 
 <p align="center">
-<img src="BibleQuote.png" alt="Matthew 10:16">
+  <img src="BibleQuote.png" alt="Matthew 10:16">
 </p>
 
 ---
@@ -19,13 +19,13 @@
 ![Static Badge](https://img.shields.io/badge/CSS-%23222831?style=for-the-badge&logo=css3&logoColor=%2333a9dc)
 ![Static Badge](https://img.shields.io/badge/PostCSS-%23222831?style=for-the-badge&logo=postcss&logoColor=%23f4430f)
 ![Static Badge](https://img.shields.io/badge/Sass-%23222831?style=for-the-badge&logo=sass)
+![Static Badge](https://img.shields.io/badge/Less-%23222831?style=for-the-badge&logo=less&logoColor=%234c7dc4)
 ![Static Badge](https://img.shields.io/badge/Tailwind-%23222831?style=for-the-badge&logo=tailwind%20css)
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23222831?style=for-the-badge&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%23222831?style=for-the-badge&logo=typescript&logoColor=%232596be)
 ![Static Badge](https://img.shields.io/badge/React-%23222831?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/Electron-%23222831?style=for-the-badge&logo=Electron&logoColor=%23b0ebf6)
-![Static Badge](https://img.shields.io/badge/Git-%23222831?style=for-the-badge&logo=git)
 
 </p>
 
@@ -44,5 +44,5 @@
   <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-%234267B2?style=for-the-badge&logo=facebook"/></a>
 
   <a href="https://www.linkedin.com/in/milan-wesolowski">
-  <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin"/></a>
+  <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin-white-logo&logoColor=white"/></a>
 </p>
